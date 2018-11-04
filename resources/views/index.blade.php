@@ -80,6 +80,6 @@
         </div>
     </div>
 
-    <hr>
+
 
 @endsection
